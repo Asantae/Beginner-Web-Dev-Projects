@@ -1,4 +1,4 @@
-
+In this project you will be creating a clock that updates in real time using an hours, seconds, and minutes hand. please feel free to add any other details you'd like!
 
 
 This project and its starter files was taken from https://courses.wesbos.com/account/access/6275dfdc58fca88cc592ff43/view/194130650
